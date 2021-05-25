@@ -1,7 +1,7 @@
-setInterval(CargarFichero, 10000);
 function CargarFichero(){
     loadDocA("mensajes.txt","txt")
 }
+setInterval(CargarFichero, 10000);
 function gestionarFicheroTXT(a)
 {
     let capaVacia = document.querySelector("main");
