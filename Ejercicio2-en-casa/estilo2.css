@@ -1,0 +1,15 @@
+  
+main{
+    display: flex;
+    flex-direction: column;
+}
+.izq{
+    align-self: flex-start;
+    width: 300px;
+    background-color: red;
+}
+.der{
+    align-self: flex-end;
+    width: 300px;
+    background-color: yellow;
+}

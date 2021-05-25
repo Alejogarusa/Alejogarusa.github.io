@@ -1,0 +1,12 @@
+.tabla
+{
+    display: table;
+}
+.fila
+{
+    display: table-row;
+}
+.celda
+{
+    display: table-cell;
+}
